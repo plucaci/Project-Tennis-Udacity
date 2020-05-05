@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Trained Agent"
-
+[image2]: https://raw.githubusercontent.com/LucaciPaul/Project-Tennis-Udacity/master/download.png "Episodes Chart"
 
 # Project 3: Collaboration and Competition
 
@@ -23,6 +23,10 @@ The task is episodic, and in order to solve the environment, your agents must ge
 - This yields a single **score** for each episode.
 
 The environment is considered solved, when the average (over 100 episodes) of those **scores** is at least +0.5.
+
+### Episodes Chart: Solved in 3 Episodes 
+
+![Episodes Chart][image2]
 
 ### Getting Started
 
